@@ -10,7 +10,8 @@ These are declarations for the buttons etc
 This is the code for the main screen
 ![Screenshot 2025-06-19 115145](https://github.com/user-attachments/assets/32f4b0c3-8c06-4705-8905-70ac1905344c)
 
-This is how the second screen looks but unfortunately the app keeps on crashing and there are no errors within the code
+This is how the second screen looks but unfortunately the app keeps on crashing and there are no errors within the code, not too sure what went wrong with thta, i have tried trouble shooting
+
 ![Screenshot 2025-06-19 122311](https://github.com/user-attachments/assets/ed29fbd2-ddb9-462a-b84f-deb281111f1f)
 
 the code for the second screen
